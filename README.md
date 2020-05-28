@@ -1,6 +1,10 @@
 # HTML5 Basics 
-```
-1. [HTML5 Tag Cheatsheet]()
-2. [Complete HTML5 Reference](https://www.tutorialspoint.com/html5/index.htm)
+This is a basic HTML5 reference repository
 
-```
+# More Resources:
+
+1. `HTML5 Tags Cheatsheet:`: [View in Repository]()
+
+2. `Complete HTML5 Reference:`[Tutorials Point](https://www.tutorialspoint.com/html5/index.htm)
+
+
